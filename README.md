@@ -17,7 +17,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 ## Project Photo
-[Photo][./img/proje.png]
+![Photo][./img/proje.png]
 
 ### Contributing 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
