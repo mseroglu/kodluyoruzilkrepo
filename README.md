@@ -3,14 +3,19 @@ Bu repo Kodluyoruz Fron-End Eğitiminde açtığım ilk repo. İçerisinde 1 ade
 
 ## Installation
 
-Öncelikle projeyi klonlayın. (git clone https://github.com/mseroglu/kodluyoruzilkrepo.git)
+Öncelikle projeyi klonlayın. (https://github.com/mseroglu/kodluyoruzilkrepo.git)
+```
+git clone https://github.com/mseroglu/kodluyoruzilkrepo.git
+```
 
 ## Usage 
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
+```
 cd kodluyoruzilkrepo
 code .
+```
 
 ## Contributing 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
