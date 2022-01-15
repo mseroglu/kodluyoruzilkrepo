@@ -18,6 +18,7 @@ code .
 ```
 ## Project Photo
 ![Photo](./img/proje.png)
+![Lorem Picsum](https://picsum.photos/200/300)
 
 ### Contributing 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
